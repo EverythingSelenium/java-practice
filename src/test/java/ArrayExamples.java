@@ -4,9 +4,7 @@ public class ArrayExamples {
         /**Example of a literal array declaration*/
         int[] intArray = {11, 22, 33, 44, 55};
 
-        int x = intArray[0];
-        int y = intArray[1];
-        int z = intArray[2];
+        int x = intArray[4];
 
         System.out.println("intArray[4] = " + intArray[4]); //This will print the value of intArray at index -> 4
         System.out.println("x = " + x); //This will print the value of x

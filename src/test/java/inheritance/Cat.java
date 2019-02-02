@@ -21,4 +21,12 @@ public class Cat extends Animal{
         this.color = color;
     }
 
+    /**
+     * Method overriding
+     * @return
+     */
+    public String sound(){
+        return "meow";
+    }
+
 }

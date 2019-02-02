@@ -39,4 +39,8 @@ public class Animal {
         this.noOfLegs = noOfLegs;
     }
 
+    public String sound(){
+        return "all animal makes some unique sounds";
+    }
+
 }

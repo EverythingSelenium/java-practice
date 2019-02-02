@@ -43,4 +43,8 @@ public class Animal {
         return "all animal makes some unique sounds";
     }
 
+    public String sound(String sound){
+        return sound;
+    }
+
 }

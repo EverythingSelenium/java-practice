@@ -10,7 +10,7 @@ public class InheritanceExample {
         System.out.println("Cat has " + cat.getNoOfLegs() + " legs.");
         System.out.println("Cat color is " + cat.getColor());
 
-        /**Method Over Riding*/
+        //*Method OverRiding//
 
         Animal animal1 = new Animal();
         System.out.println("animal1.sound() = " + animal1.sound());
@@ -18,9 +18,16 @@ public class InheritanceExample {
         Cat cat1 = new Cat(false, "mouse", 4, "grey");
         System.out.println("cat1.sound() = " + cat1.sound());
 
-        /**Dynamic Binding*/
+        cat1.sound("woof");
+/*
+
+        //*Dynamic Binding//
         Animal animal2 = new Cat(false, "milk", 4, "yellow");
         System.out.println("animal2.sound() = " + animal2.sound());
+
+*/
+
+
 
     }
 }

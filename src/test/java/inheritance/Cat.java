@@ -8,7 +8,7 @@ public class Cat extends Animal{
         this.color="White";
     }
 
-    public Cat(boolean veg, String food, int legs,String color){
+    public Cat(boolean veg, String food, int legs, String color){
         super(veg, food, legs);
         this.color=color;
     }
@@ -17,7 +17,7 @@ public class Cat extends Animal{
         return color;
     }
 
-    public void setColor(String color) {
+    private void setColor(String color) {
         this.color = color;
     }
 

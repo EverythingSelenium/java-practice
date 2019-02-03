@@ -36,5 +36,11 @@ public class ArrayExamples {
             System.out.println("str = " + str);
         }
 
+
+
+
+
+        //this comment was added by prachi
+
     }
 }

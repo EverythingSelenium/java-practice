@@ -21,7 +21,7 @@ public class ArrayExamples {
         intArray2[2] = 100;  //assigns the value 90 to the third index of intArray2
 
         //Print the values of array at the provided index
-        System.out.println("intArray2[0] = " + intArray2[0]);
+       // System.out.println("intArray2[0] = " + intArray2[0]);
         System.out.println("intArray2[1] = " + intArray2[1]);
         System.out.println("intArray2[2] = " + intArray2[2]);
 
@@ -35,6 +35,8 @@ public class ArrayExamples {
         for (String str : stringArray) {
             System.out.println("str = " + str);
         }
+
+        // this comment is added by vruta
 
     }
 }

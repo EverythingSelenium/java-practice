@@ -35,6 +35,6 @@ public class ArrayExamples {
         for (String str : stringArray) {
             System.out.println("str = " + str);
         }
-
+        // this comment was added by Tinu
     }
 }

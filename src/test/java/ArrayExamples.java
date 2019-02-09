@@ -1,8 +1,6 @@
 public class ArrayExamples {
     public static void main(String[] args) {
 
-        //This comment is added by poonam.
-        
         /**Example of a literal array declaration*/
         int[] intArray = {11, 22, 33, 44, 55};
 
@@ -37,10 +35,5 @@ public class ArrayExamples {
         for (String str : stringArray) {
             System.out.println("str = " + str);
         }
-        // this comment was added by tulsi
-        // this comment was added by Tinu
-        //this comment was added by prachi
-        //this is 2nd commit by prachi
-        //This comment was added by Vedant.
     }
 }

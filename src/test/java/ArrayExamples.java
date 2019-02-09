@@ -37,10 +37,10 @@ public class ArrayExamples {
         for (String str : stringArray) {
             System.out.println("str = " + str);
         }
+        // this comment was added by tulsi
         // this comment was added by Tinu
         //this comment was added by prachi
         //this is 2nd commit by prachi
+        //This comment was added by Vedant.
     }
-
-    //This comment was added by Vedant.
 }

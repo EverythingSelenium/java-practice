@@ -33,7 +33,7 @@ public class Hello {
         // 	printTables(i);
         // }
 
-        hello("Rajan", 7);
+     //   hello("Rajan", 7);
 
     }
 
